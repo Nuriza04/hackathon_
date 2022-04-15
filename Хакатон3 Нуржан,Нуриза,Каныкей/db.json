@@ -1,0 +1,88 @@
+{
+  "movies": [
+    {
+      "title": "The Lost City      (12+)",
+      "price": "",
+      "descr": "",
+      "image": "https://m.media-amazon.com/images/M/MV5BMmIwYzFhODAtY2I1YS00ZDdmLTkyYWQtZjI5NDIwMDc2MjEyXkEyXkFqcGdeQXVyODk4OTc3MTY@._V1_.jpg",
+      "id": 2
+    },
+    {
+      "title": "Подельники      (16+)",
+      "price": "",
+      "descr": "",
+      "image": "https://www.kino-teatr.ru/movie/posters/big/8/145288.jpg",
+      "id": 3
+    },
+    {
+      "title": "Бабушка     (16+)",
+      "price": "",
+      "descr": "",
+      "image": "https://static.kinoafisha.info/k/movie_posters/canvas/800x1200/upload/movie_posters/6/8/3/8365386/2dfbdd070b11c85cc27487532737a9d7.jpg",
+      "id": 4
+    },
+    {
+      "title": "Агашки по вызову    (12+)",
+      "price": "",
+      "descr": "",
+      "image": "https://cdn.kino.kz/movies/Agashki_po_vyzovu/p1200x1730.jpg",
+      "id": 5
+    },
+    {
+      "title": " Призрак монахини     (16+)",
+      "price": "",
+      "descr": "",
+      "image": "https://www.film.ru/sites/default/files/movies/posters/50244567-2081694.jpg",
+      "id": 7
+    },
+    {
+      "title": "Скрежет   (16+)",
+      "price": "",
+      "descr": "",
+      "image": "https://smotri-filmi.cc/uploads/posts/2022-04/thumbs/1649677911_bezymyannyy.png",
+      "id": 8
+    },
+    {
+      "title": "Шамбала     (12+)",
+      "price": "",
+      "descr": "",
+      "image": "https://www.kino-teatr.ru/movie/posters/big/3/143923.jpg",
+      "id": 10
+    },
+    {
+      "title": "Кандиша: Демон    (16+)",
+      "price": "",
+      "descr": "",
+      "image": "https://avatars.mds.yandex.net/get-kinopoisk-image/4303601/a2de849f-d35b-4e77-8747-c0250d03b7aa/300x450",
+      "id": 11
+    },
+    {
+      "title": "9 жизней  (16+)",
+      "price": "",
+      "descr": "",
+      "image": "https://image.kinokrad.co/p/f/1649777851_9-zhizney.jpeg",
+      "id": 12
+    },
+    {
+      "title": "Обратимая реальность (16+)",
+      "price": "",
+      "descr": "",
+      "image": "https://horrorzone.ru/uploads/_gallery2/109601/obratimaja-realnost00.jpg",
+      "id": 13
+    },
+    {
+      "title": "Морбиус  (12+)",
+      "price": "",
+      "descr": "",
+      "image": "https://avatars.mds.yandex.net/get-kinopoisk-image/6201401/8caec65a-e133-426d-a46d-d3e417eee356/300x450",
+      "id": 14
+    },
+    {
+      "title": "Проклятье плачущей  (18+)",
+      "price": "",
+      "descr": "",
+      "image": "https://upload.wikimedia.org/wikipedia/ru/a/aa/%D0%9F%D1%80%D0%BE%D0%BA%D0%BB%D1%8F%D1%82%D0%B8%D0%B5_%D0%BF%D0%BB%D0%B0%D1%87%D1%83%D1%89%D0%B5%D0%B9_%28%D1%84%D0%B8%D0%BB%D1%8C%D0%BC%2C_2019%29.jpg",
+      "id": 15
+    }
+  ]
+}
